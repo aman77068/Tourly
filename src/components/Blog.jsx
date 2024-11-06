@@ -6,7 +6,7 @@ const Blog = () => {
     <>
       <div className='blog'>
         <div className='blog1'>
-          <h1 style={{ fontSize: "50px" }}>Happy Travelers</h1>
+          <h1 style={{ fontSize: "51px" }}>Happy Travelers</h1>
           <h3 style={{ fontSize: "50px", color: "black" }}>99.21%<span> Positive Reviews</span></h3>
           <h4 style={{ fontSize: "30px" }}>Based On 114036 Ratings</h4>
         </div>
